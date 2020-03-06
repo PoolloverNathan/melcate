@@ -9,5 +9,5 @@ namespace melcate {
 		private bool alloced;
 		private bool exis;
 		void initmem();
-    }
+	}
 }
